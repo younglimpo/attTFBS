@@ -74,5 +74,5 @@ The result of the cross-validation will be printed in the default log file.
 ```
 
  ## Results
- ![Loss](https://github.com/younglimpo/attTFBS/Img/Loss.png) ![Overall accuracy](https://github.com/younglimpo/attTFBS/blob/master/Img/OA.png) ![F-score](https://github.com/younglimpo/attTFBS/blob/master/Img/F1.png)![Kappa](https://github.com/younglimpo/attTFBS/blob/master/Img/Kappa.png) ![Recall](https://github.com/younglimpo/attTFBS/blob/master/Img/Recall.png) ![Precision](https://github.com/younglimpo/attTFBS/blob/master/Img/Precision.png)
+ ![Loss](https://github.com/younglimpo/attTFBS/blob/main/Img/Loss.png) ![Overall accuracy](https://github.com/younglimpo/attTFBS/blob/main/Img/OA.png) ![F-score](https://github.com/younglimpo/attTFBS/blob/main/Img/F1.png)![Kappa](https://github.com/younglimpo/attTFBS/blob/main/Img/Kappa.png) ![Recall](https://github.com/younglimpo/attTFBS/blob/main/Img/Recall.png) ![Precision](https://github.com/younglimpo/attTFBS/blob/main/Img/Precision.png)
  
